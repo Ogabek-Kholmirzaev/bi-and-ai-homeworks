@@ -1,0 +1,13 @@
+Word Count Report
+Total Words: 16
+Top 14 Words:
+is - 3
+file - 3
+this - 2
+a - 2
+simple - 1
+for - 1
+testing - 1
+purposes - 1
+it - 1
+test - 1
